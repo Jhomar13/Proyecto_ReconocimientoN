@@ -1,0 +1,9 @@
+
+tensorflow==2.15.1
+numpy==1.26.4
+matplotlib
+pandas
+streamlit
+pillow
+scikit-learn
+opencv-python-headless==4.11.0.86
