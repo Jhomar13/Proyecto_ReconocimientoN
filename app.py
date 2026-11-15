@@ -27,7 +27,7 @@ st.set_page_config(
 
 BASE_DIR = Path(__file__).resolve().parent
 
-RUTA_MODELO = BASE_DIR / "modelos" / "cnn_mnist.keras"
+RUTA_MODELO = BASE_DIR / "modelos" / "cnn_mnist.h5"
 
 
 @st.cache_resource
